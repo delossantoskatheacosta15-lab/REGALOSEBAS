@@ -1,0 +1,6 @@
+COMO USARLO
+
+1. Descomprime el .zip (clic derecho > Extraer todo).
+2. Abre index.html con Chrome.
+Las fotos ya van dentro de index.html; la carpeta fotos es solo una copia.
+3. Para cambiar textos, abre index.html con el Bloc de notas y edita la parte de arriba (CONFIG).
